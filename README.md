@@ -1,6 +1,6 @@
 ## An Opensource Trading, Portfolio Management and Backoffice Platform
 
-Unify is Trading Platform build by Traders and Fintech Veterans. It has been designed and built from the groupd up to be open and extendable.
+Unify is a Trading Platform build by Traders and Fintech veterans. It's been designed and built from the ground up to be open and extendable.
 
 ### High Level Features:
 * Realtime Market Connectivity : FIX, TARP, Bloomberg, Thompson Reuters
