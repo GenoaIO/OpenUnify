@@ -21,7 +21,7 @@ Unify is a Trading Platform build by Traders and Fintech veterans. It's been des
 ### Implementation Examples
 Solution | Business | Description
 -------- | -------- | -----------
-Equity Long/Short | Hedge Fund | FIX, Position, P&L for a Systematic Trading Fund
+Equity Long/Short | Hedge Fund | FIX, Position, P&L, Systematic Trading Fund
 Private Equity | Family Office | CRM, Document Management, Investment Cash, Financial Management
 Real Estate Investments | Real Estate Fund | Structured Deals, investment receipts, coupon/interest payments
 Fund Administration | Middle Office Outsourcer | P&L, Reconcilation, Shadow Accounting
