@@ -13,7 +13,7 @@ Unify is Trading Platform build by Traders and Fintech Veterans. It has been des
 * File Repository
 * Brokerage Module with Client Portal
 
-### More information contact with the team can be found at:
+### For more information and how to contact go to:
 * http://www.genoa.io/unify
 * https://github.com/GenoaIO
 * https://twitter.com/UnifyIO
