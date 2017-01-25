@@ -10,9 +10,6 @@ name: An Opensource Trading, Portfolio Management and Backoffice Platform
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://pbs.twimg.com/profile_images/824266621820747777/uxu-xhUL_400x400.jpg
-#
-# Flags below are optional
-#
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
@@ -24,6 +21,8 @@ url: http://www.genoa.io/unify
 # then add in the baseurl here, like this: "/repository-name"
 #baseurl: "/GenoaIO/OpenUnify/"
 theme: jekyll-theme-slate
+
 markdown: redcarpet
 redcarpet:
-extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", "with_toc_data"]
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "strikethrough", "superscript", "with_toc_data"]
+
