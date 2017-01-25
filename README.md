@@ -24,6 +24,6 @@ Solution | Business | Description
 Equity Long/Short | Hedge Fund | FIX, Position, P&L for a Systematic Trading Fund
 Private Equity | Family Office | CRM, Document Management, Investment Cash, Financial Management
 Real Estate Investments | Real Estate Fund | Structured Deals, investment receipts, coupon/interest payments
-Fund Administration | Middle Office Outsourcer | P&L, Reconcilation, Shaddow Accounting
+Fund Administration | Middle Office Outsourcer | P&L, Reconcilation, Shadow Accounting
 FX Prime Broker | Bank | KYC, Trading and Limit Management, Client Portal, Risk, Settlement, Accounting
 Bitcoin Exchange | Fintech | Blockchain, KYC, Trading and Limit Management, Client Portal, Risk, Settlement, Accounting
